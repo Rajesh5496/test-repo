@@ -1,0 +1,2274 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Synchro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-19 13:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:58
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:58
+msgid ""
+"Could not get token from remote server - Is WP Synchro installed and "
+"activated?"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:59
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:59
+msgid ""
+"Could not get data from remote service (401/403) - Check access key and "
+"website url"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:60
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:60
+msgid ""
+"Could not get data from local service (401/403) - Maybe something is "
+"blocking?"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:61
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:61
+msgid ""
+"Could not get data from remote service ({0}) - Check access key and website "
+"url"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:62
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:62
+msgid "Could not get data from local service ({0})"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:63
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:63
+msgid ""
+"No proper response from remote server - Check that website is correct and WP "
+"Synchro is activated"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:64
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:64
+msgid ""
+"No proper response from local server - Check that nothing is blocking calls "
+"to this server"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:65
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:66
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:65
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:66
+msgid "Unknown error - Maybe this helps:"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:66
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:66
+msgid ""
+"No proper transfer token to use for safe communication - Try with another "
+"browser. Eg. newest Chrome."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:67
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:67
+msgid ""
+"Could not connect to remote service - Check access key, website url and WP "
+"Synchro is activated"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:68
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:68
+msgid "Could not grab the database tables names from remote"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:69
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:69
+msgid "Could not grab the file data from remote"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:70
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:70
+msgid "Name should be filled out"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:71
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:71
+msgid "Type (pull/push) must be chosen"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:72
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:72
+msgid "Website or access key is not valid"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:78
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:78
+msgid "This should not be synced and will be excluded from migrations"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:79
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:79
+msgid "Choose the entire dir or use the other add buttons"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:85
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:85
+msgid "Add files or directories to migrate"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:86
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:437
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:86
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:437
+msgid "Keep"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:87
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:438
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:87
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:438
+msgid "Clean"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:88
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:88
+msgid ""
+"Keep files on target not present on source. Faster, but will potentially "
+"leave unused files on target"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:89
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:89
+msgid ""
+"Delete files on target not present on source. Slower, but more clean, "
+"because unused files will be removed"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:90
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:287
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:303
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:90
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:287
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:303
+msgid "Exclusions"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:91
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:91
+msgid ""
+"Exclusions to be applied to this location. Will be matched as substring on "
+"the path, so be careful. Separate with comma. Like: ignoredir,otherignoredir"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:92
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:92
+msgid "Cancel"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:93
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:403
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:93
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:403
+msgid "Save"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:94
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:94
+msgid ""
+"Could not fetch filedata - Normally due to a timed out security token. "
+"Refresh page and continue."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:100
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:100
+msgid "Edit installation"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:100
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:123
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:100
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:123
+msgid "Add installation"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:112
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:112
+msgid "Installation is now saved"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:112
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:114
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:112
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:114
+msgid "Go back to overview"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:114
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:114
+msgid "Installation is now created"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:117
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:117
+msgid ""
+"Fill out the details of the installation to be synced to chosen location."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:126
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:126
+msgid "Installation"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:128
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:128
+msgid "Choose a name"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:131
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:100
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:131
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:100
+msgid "Name"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:138
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:138
+msgid "Type of synchronization"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:141
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:141
+msgid "Push or pull"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:144
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:144
+msgid "Pull from remote server to this installation "
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:145
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:145
+msgid "Push this installation to remote server"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:150
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:150
+msgid "Where to pull from"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:151
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:151
+msgid "Where to push to"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:155
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:155
+msgid "Website (full url)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:163
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:151
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:163
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:151
+msgid "Access key"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:169
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:169
+msgid ""
+"All communication will be encrypted during synchronization. But without SSL "
+"(https://), the data retrieved during this configuration will not be "
+"encrypted."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:169
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:169
+msgid "Consider using https:// instead if website supports it."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:175
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:175
+msgid "Verify website and access key"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:180
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:180
+msgid "General settings"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:183
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:183
+msgid "Verify SSL"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:186
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:186
+msgid ""
+"Verify SSL certificates - Should be turned off for self-signed certificates"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:192
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:192
+msgid "Data to synchronize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:196
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:196
+msgid "Preconfigured migrations"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:199
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:228
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:315
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:199
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:228
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:315
+msgid "Get PRO version now to start doing file synchronization and more!"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:201
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:201
+msgid "Synchronize entire site"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:202
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:202
+msgid ""
+"Backup database, synchronize database, synchronize all files from web root "
+"level (except wp-admin, wp-includes and WP files in web root)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:205
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:83
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:205
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:83
+msgid "Synchronize all files"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:206
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:206
+msgid ""
+"Synchronize all files from web root level (except wp-admin, wp-includes and "
+"WP files in web root)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:211
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:81
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:211
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:81
+msgid "Synchronize entire database"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:212
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:212
+msgid "Backup database and synchronize all database tables"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:212
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:212
+msgid "Backup database (Only PRO version) and synchronize all database tables"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:216
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:216
+msgid "Choose what to synchronize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:217
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:217
+msgid "Configure exactly what you want to synchronize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:225
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:225
+msgid "Choose data to synchronize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:230
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:230
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:74
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:74
+msgid "Synchronize files"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:234
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:234
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:69
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:69
+msgid "Synchronize database"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:241
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:241
+msgid "Files synchronization"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:243
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:243
+msgid "Files and directories to migrate"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:244
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:244
+msgid ""
+"Choose the files or directories you want to migrate and how it should be "
+"handled."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:247
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:247
+msgid ""
+"Disabled because read or write access to this location is disabled on the "
+"source or target server - Normally by PHPs open_basedir setting"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:248
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:248
+msgid ""
+"Disabled because read or write access to this location is disabled on the "
+"source or target server - Normally by incorrect file permissions"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:253
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:253
+msgid "Add from outside web root"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:254
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:254
+msgid "Add from web root"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:255
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:255
+msgid "Add from wp-content"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:260
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:260
+msgid "Web root"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:261
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:261
+msgid "Themes"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:262
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:262
+msgid "Plugins"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:263
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:263
+msgid "Uploads"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:266
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:266
+msgid "Locations"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:267
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:267
+msgid "No files or directories selected yet. Add them with the buttons above."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:274
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:274
+msgid "Please correct these locations:"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:276
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:276
+msgid "<u>{{paths[0]}}</u> overlaps with <u>{{paths[1]}}</u>"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:284
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:101
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:284
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:101
+msgid "Type"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:285
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:285
+msgid "Full path"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:286
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:286
+msgid "Strategy"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:299
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:299
+msgid "General exclusions"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:300
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:300
+msgid ""
+"Exclude files or directories, separated by comma. Ex: .htaccess,favicon.ico,"
+"my-secret-dir"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:300
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:300
+msgid ""
+"WP folders wp-admin, wp-includes and WP files in web root, as well as WP "
+"Synchro plugin and data are excluded."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:300
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:300
+msgid ""
+"These are applied to all file locations chosen in file/dir location list."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:313
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:313
+msgid "Database synchronization"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:314
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:314
+msgid "Database migration settings"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:318
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:318
+msgid "Backup database tables"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:321
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:321
+msgid "Backup chosen database tables to file"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:321
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:321
+msgid ""
+"Backup database tables before overwriting them. Will be written to a .sql "
+"file that be imported again by phpmyadmin or equal tools."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:321
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:331
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:340
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:321
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:331
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:340
+msgid "Recommended"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:328
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:328
+msgid "Table prefix migration"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:331
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:331
+msgid "Migrate table prefix and data if needed"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:331
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:331
+msgid ""
+"Will rename database tables, so they match the correct prefix on target - "
+"Will also rename keys in rows in options and usermeta tables. This may cause "
+"problems, if the renames accidentally renames something it shouldnt, that is "
+"custom or used by another plugin"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:337
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:337
+msgid "Active plugins"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:340
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:340
+msgid "Preserve active plugins settings"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:340
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:340
+msgid ""
+"Preserve which plugins are activated and which ones are not. When enabled, "
+"you will not risk having other plugins activated, that you dont already have "
+"activated"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:344
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:344
+msgid "Search/replace"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:345
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:345
+msgid "Add your project specific search/replaces."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:345
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:345
+msgid "Eg. \"text_i_want_changed\" to \"my_new_text\""
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:345
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:345
+msgid "Search/replace is done in a case sensitive manner"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:350
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:350
+msgid "Search"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:351
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:351
+msgid "Replace"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:370
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:370
+msgid "Add replace"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:372
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:372
+msgid "Tables to synchronize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:375
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:375
+msgid "Database tables"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:378
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:378
+msgid "Synchronize all database tables"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:388
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:388
+msgid "How to use:"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:389
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:389
+msgid ""
+"<u>Win</u>: CTRL-A to mark all - Select/deselect tables by holding CTRL "
+"while clicking table"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:390
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:390
+msgid ""
+"<u>Mac</u>: &#8984;-A to mark all - Select/deselect tables by holding &#8984;"
+" while clicking table"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:401
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:401
+msgid "Save installation"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:433
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:433
+msgid "File"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:433
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:433
+msgid "Dir"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:437
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:437
+msgid "Files on target not existing on source will be kept"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:438
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:438
+msgid "Files on target not present on source will be deleted"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:439
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:439
+msgid "Overwrite"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:439
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:439
+msgid "File will be overwritten"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:441
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:441
+msgid "N/A"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-addedit.php:442
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-addedit.php:442
+msgid "Delete this location"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:58
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:156
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:156
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:58
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:156
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:156
+msgid "Licensing"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:59
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:59
+msgid ""
+"Here you can insert your license key for your PRO version, so you can use "
+"the full functionality of WP Synchro PRO."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:62
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:62
+msgid "Your license"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:63
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:63
+msgid ""
+"Your license key can be found on <a href=\"https://wpsynchro.com\" "
+"target=\"_blank\">https://wpsynchro.com</a> on My Account after login in "
+"with your credentials."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:63
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:63
+msgid ""
+"The license key will be validated against license server and will be "
+"revalidated every day automatically."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:66
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:66
+msgid "Currently used license key"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:68
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:68
+#, php-format
+msgid "starts with %s and ends with %s"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:70
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:70
+msgid "no license key"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:84
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:84
+#, php-format
+msgid ""
+"License is in a unknown state - We are retrying to contact license server to "
+"determine state - Attempt %d of %d"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:85
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:85
+#, php-format
+msgid ""
+"Last retry was %s minutes ago and we will retry with ~%d min intervals up to "
+"%d attempts."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:86
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:86
+msgid ""
+"Make sure it is possible to connect out of this webserver to license server "
+"at wpsynchro.com."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:91
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:91
+#, php-format
+msgid "License is <u>valid</u> and <u>active</u>. Last checked %s hours ago."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:96
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:96
+#, php-format
+msgid ""
+"License is NOT valid. Last checked %s hours ago. Change your key to a valid "
+"one or contact support if you have questions."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:97
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:97
+msgid ""
+"To recheck your current key, just save the key again and it will be re-"
+"validated."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:103
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:103
+msgid "License is not yet validated - Insert your license key and validate it."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:110
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:110
+msgid "Change license key"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:114
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:114
+msgid "New license key"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:121
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:121
+msgid "Save license key and validate"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:124
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:124
+msgid "Terms of use"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:125
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:125
+msgid ""
+"By inserting your license key and saving it, you accept that we use this "
+"information to contact WP Synchro license server."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:126
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:126
+msgid ""
+"After successful validation, the key will be revalidated every day to make "
+"sure it is still valid."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:127
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:127
+msgid ""
+"On the server, the key will be checked and request is logged, along with "
+"your public IP address and site url."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:128
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:128
+msgid "We dont save or send other information to the license server."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:129
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:129
+msgid ""
+"For every synchronization, the license server will be contacted to verify "
+"the license and the active sites limit for your subscription."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-licensing.php:130
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-licensing.php:130
+msgid ""
+"These requests contain only your license key and the urls of synchronization."
+" These will be logged along with your public IP address."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log-table.php:48
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log-table.php:48
+msgid "Started"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log-table.php:50
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log-table.php:50
+msgid "Completed"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log-table.php:52
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log-table.php:52
+msgid "Unknown"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log-table.php:70
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log-table.php:70
+msgid "Show log"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log-table.php:71
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log-table.php:71
+msgid "Download log"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log-table.php:81
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log-table.php:81
+msgid "Synchronization date"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log-table.php:82
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log-table.php:82
+msgid "Status"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log-table.php:83
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:102
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log-table.php:83
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:102
+msgid "Description"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log-table.php:84
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log-table.php:84
+msgid "Logfile"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log.php:51
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:151
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:151
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log.php:51
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:151
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:151
+msgid "Logs"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-log.php:52
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-log.php:52
+msgid ""
+"See your last synchronizations and the result of them. Here you can also "
+"download the log file from the synchronization."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:36
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:36
+msgid "Duplicate"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:38
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:38
+msgid "Schedule"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:40
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:40
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:40
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:40
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:40
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:40
+msgid "Delete"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:60
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:60
+msgid "Local installation"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:68
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:68
+msgid "Database"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:71
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:71
+msgid "Files"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:89
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:91
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:89
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:91
+msgid "Run now"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:91
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:91
+msgid "Installation can not be run - See description"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:103
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:103
+msgid "Actions"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview-table.php:121
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview-table.php:121
+msgid "ALL TYPES"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:76
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:76
+msgid "Scheduling a synchronization"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:77
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:77
+#, php-format
+msgid ""
+"To schedule a job to run at a certain time or with a certain interval, you "
+"need to have %sWP CLI%s installed."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:78
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:78
+msgid "With WP CLI installed, you can run this synchronization"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:79
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:79
+msgid "with this command"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:80
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:80
+msgid "Or if you want it in quiet mode, with no output"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:81
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:81
+msgid "You can add this command to cron and run it exactly how you want it."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:87
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:87
+msgid "Migrate your WordPress site"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:105
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:105
+#, php-format
+msgid ""
+"You have used WP Synchro %d times now - We hope you are enjoying it and have "
+"saved some time and troubles.<br>We try really hard to give you a high "
+"quality tool for WordPress site migrations.<br>If you enjoy using WP Synchro,"
+" we would appreciate your review on <a href='%s' target='_blank'>WordPress "
+"plugin repository</a>.<br>Thank you for the help."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:106
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:106
+msgid "Rate WP Synchro on WordPress.org"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-overview.php:106
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-overview.php:106
+msgid "Dismiss forever"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:36
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:36
+msgid "No syncid provided - This should not happen"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:41
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:41
+msgid "No jobid provided - This should not happen"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:49
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:49
+msgid "Installation not found - This should not happen"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:64
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:64
+msgid ""
+"Could not get data from local REST service ({0}) - Maybe local server has "
+"troubles?"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:65
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:65
+msgid ""
+"No proper response from local server - Maybe REST service is blocked? This "
+"can also be a temporary issue, if the host has issues. Please try again"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:73
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:73
+msgid "Run synchronization"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:78
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:78
+msgid ""
+"Do not navigate away from this page until synchronization is completed - It "
+"may break your installation"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:84
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:84
+msgid "Synchronization completed"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:91
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:91
+msgid "Error(s) during synchronization:"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:101
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:101
+msgid "WARNING(S) (synchronization will continue):"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:109
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:109
+msgid "Time elapsed"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:109
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:109
+msgid "Hours"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:109
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:109
+msgid "Minutes"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:109
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:109
+msgid "Seconds"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-run.php:113
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-run.php:113
+msgid "Stage"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:117
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:152
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:152
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:117
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:152
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:152
+msgid "Setup"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:118
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:118
+msgid ""
+"Configure the access key used for accessing this installation from remote. "
+"Treat the access key like a password and keep it safe from others.<br>This "
+"is also where you choose what methods (pull/push) are allowed when accessing "
+"this installation from remote."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:139
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:139
+msgid "WP Synchro settings are now updated"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:148
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:148
+msgid "Configure settings"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:154
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:154
+msgid "Generate new access key"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:159
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:159
+msgid "Allowed methods"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:161
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:161
+msgid "Allow pull - Allow this site to be downloaded"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:162
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:162
+msgid "Allow push - Allow this site to be overwritten"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:167
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:167
+msgid "Optimize compatibility"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:169
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:169
+msgid ""
+"Enable MU Plugin that disables other plugins/themes on WP Synchro requests "
+"(recommended)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:174
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:174
+msgid "Debug log"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:176
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:176
+msgid ""
+"Enable debug level logging - Generates much larger log files, but needed for "
+"debugging"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-setup.php:181
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-setup.php:181
+msgid "Save settings"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:62
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:153
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:153
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:62
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:153
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:153
+msgid "Support"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:69
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:69
+msgid "WP Synchro data clean up completed - It is nice and clean now"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:76
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:76
+msgid "Here is how you get help on a support issue for WP Synchro."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:77
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:77
+msgid "Getting support"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:82
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:82
+msgid ""
+"You are on the PRO version with a validated license, so you have access to "
+"priority email support."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:83
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:101
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:83
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:101
+msgid "Contact us on"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:84
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:102
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:84
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:102
+msgid "Be sure to include relevant information, such as:"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:87
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:105
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:87
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:105
+msgid "Description of problem(s)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:88
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:106
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:88
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:106
+msgid "Screenshot of problem(s)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:89
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:107
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:89
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:107
+msgid "Result of Healthcheck just below"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:90
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:108
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:90
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:108
+msgid "Log file from synchronization (found in menu \"Logs\")"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:92
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:92
+msgid ""
+"We will then get back to you as soon as we have investigated and we will ask "
+"for further information if needed."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:98
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:98
+msgid ""
+"You are using the free version of WP Synchro, which we also provide email "
+"support for."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:99
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:99
+msgid ""
+"Users on the PRO version have priority support, so free version support "
+"requests can take more time depending on support load.<br>Check out <a "
+"href=\"https://wpsynchro.com\" target=\"_blank\">https://wpsynchro.com</a> "
+"on how to get the PRO version. The PRO version also contains more useful "
+"features, such as synchronizing files."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:100
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:100
+msgid ""
+"If you just have a bug report, security issue or a good idea for WP Synchro, "
+"we would still like to hear from you."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:115
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:115
+msgid "Healthcheck"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:119
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:119
+msgid "Debug information"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:120
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:120
+msgid ""
+"Find debug data for your site, for easier debugging by WP Synchro team on "
+"support issues."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:124
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:124
+msgid "Setting"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:125
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:125
+msgid "Value"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:139
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:139
+msgid "Debug JSON information"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:140
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:140
+msgid ""
+"Contains the above information + active plugins and dropins. No personal "
+"information is included."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:143
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:143
+msgid "Delete WP Synchro data"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:144
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:144
+msgid ""
+"Delete all data related to WP Synchro, in database and files. Can be used to "
+"clean up after WP Synchro if needed."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:144
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:144
+msgid ""
+"Does not reset access key and license key setup, but removes data like log "
+"files and installations."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-admin-support.php:148
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-admin-support.php:148
+msgid "Delete all WP Synchro data"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-common-functions.php:202
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-common-functions.php:202
+#, php-format
+msgid "WP Synchro requires PHP version %s or higher - Please update your PHP"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-common-functions.php:212
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-common-functions.php:212
+#, php-format
+msgid ""
+"WP Synchro requires MySQL version %s or higher - Please update your MySQL"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-common-functions.php:221
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-common-functions.php:221
+#, php-format
+msgid ""
+"WP Synchro requires WordPress version %s or higher - Please update your "
+"WordPress"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-common-functions.php:281
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-common-functions.php:281
+msgid ""
+"WP Synchro database version is newer than the plugin version - Please "
+"upgrade plugin to newest version - Continue at own risk"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:66
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:66
+msgid "Synchronize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:69
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:69
+#, php-format
+msgid "from <b>this installation</b> to <b>%s</b> "
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:71
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:71
+#, php-format
+msgid "<b>from %s</b> to <b>this installation</b>"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:75
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:75
+msgid "Self-signed and non-valid SSL certificates allowed"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:79
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:79
+msgid "Synchronize entire site (database and files)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:86
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:86
+msgid "Custom synchronization - But no data chosen for sync"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:88
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:88
+msgid "Custom synchronization"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:95
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:95
+msgid "Database backup: All database tables will be exported"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:97
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:97
+#, php-format
+msgid "Database backup: Will backup %d selected tables. "
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:104
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:104
+msgid "Database: All database tables will be migrated"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:106
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:106
+#, php-format
+msgid "Database: Will migrate %d selected tables. "
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:113
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:113
+msgid "Files: One location will be migrated"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:115
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:115
+#, php-format
+msgid "Files: %d locations will be migrated"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:118
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:118
+msgid "Files: No locations chosen for synchronization"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:145
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:145
+msgid "File migration is only available in PRO version"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-installation.php:149
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-installation.php:149
+msgid "Database backup is only available in PRO version"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-licensing.php:112
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-licensing.php:112
+msgid ""
+"License validation failed - Please update your license or contact support"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-licensing.php:191
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-licensing.php:191
+#, php-format
+msgid ""
+"%s uses a WP Synchro PRO version that can not be validated using the current "
+"license key. Update license key on this site to a valid one and try again. "
+"This can be done in menu WP Synchro > Licensing."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-licensing.php:248
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-licensing.php:248
+msgid "Synchronization was denied by license server - Check log for details"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-sync-controller.php:76
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-sync-controller.php:76
+msgid "Job is already running or error has happened - Check PHP error logs"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:150
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:150
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:150
+msgid "Overview"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:189
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:189
+msgid "Healthcheck for WP Synchro on this installation"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:190
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:190
+msgid ""
+"Check if this installation will work with WP Synchro. It checks REST access, "
+"php extensions, hosting setup and more."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:191
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:191
+msgid "Performing basic healthcheck"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:192
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:192
+msgid "Performing timeout test (will take up to {0} seconds)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:193
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:193
+msgid "Errors found"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:194
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:194
+msgid "Warnings found"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:195
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:195
+msgid "Tip: These tests can be rerun in 'Support' menu."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:196
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:196
+msgid ""
+"Critical - Request to local WP Synchro healthcheck REST service could not be "
+"sent or did not get no response."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:197
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:197
+msgid ""
+"Critical - Request to local WP Synchro healthcheck REST service did not get "
+"a response at all."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:198
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:198
+msgid ""
+"Critical - Request to REST service did not respond properly - HTTP {0} - "
+"Maybe REST is blocked or returns invalid content. Response JSON:"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:199
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:199
+msgid ""
+"Critical - Request to REST service did not respond properly - Maybe REST is "
+"blocked or returns invalid content. Response JSON:"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/class-wpsynchro.php:200
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/class-wpsynchro.php:200
+msgid ""
+"Critical - Connection was cut off before the expected timeout in PHP. We got "
+"a timeout in ~{0} seconds, but expected {1}. This means that the webserver "
+"or another components is cutting PHP scripts off before it should - Contact "
+"your hosting to get this fixed"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/cli/class-wpsynchro-cli-command.php:42
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/cli/class-wpsynchro-cli-command.php:42
+#, php-format
+msgid ""
+"Installation id \"%s\" could not be found. Make sure it is identical to the "
+"one found on the overview page in WP Synchro."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/cli/class-wpsynchro-cli-command.php:52
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/cli/class-wpsynchro-cli-command.php:52
+msgid "Starting synchronization..."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/cli/class-wpsynchro-cli-command.php:75
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/cli/class-wpsynchro-cli-command.php:75
+msgid "Synchronization has completed without errors"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/compatibility/class-mu-plugin-handler.php:64
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/compatibility/class-mu-plugin-handler.php:64
+#, php-format
+msgid ""
+"MU plugin dir %s could not be created - It is probably a permission issue"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/compatibility/class-mu-plugin-handler.php:71
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/compatibility/class-mu-plugin-handler.php:71
+#, php-format
+msgid "MU plugin dir %s is not writable - It is probably a permission issue"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/compatibility/class-mu-plugin-handler.php:87
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/compatibility/class-mu-plugin-handler.php:87
+#, php-format
+msgid ""
+"MU plugin %s could not be copied to MU plugin dir - It is probably a "
+"permission issue"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/compatibility/class-mu-plugin-handler.php:105
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/compatibility/class-mu-plugin-handler.php:105
+#, php-format
+msgid "MU plugin %s could not be deleted - It is probably a permission issue"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-backup.php:99
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-backup.php:99
+msgid ""
+"Database backup REST Service responded with error. Check log for further "
+"information."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-backup.php:184
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-backup.php:184
+#, php-format
+msgid "Row %d / %d"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-finalize.php:80
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-finalize.php:80
+#, php-format
+msgid ""
+"Finalize: Error in database synchronization for table %s - It is not "
+"transferred"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-finalize.php:253
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-finalize.php:253
+msgid "Could not retrieve data from remote site for finalizing"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-finalize.php:322
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-finalize.php:322
+#, php-format
+msgid ""
+"Finalize: Table %s is not found with the correct case. We found a table "
+"called %s. This may or may not give you problems. This happens due to SQL "
+"server configuration."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-finalize.php:326
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-finalize.php:326
+#, php-format
+msgid ""
+"Finalize: Table %s is not found on target. It may be a problem with the "
+"rename from temp table name."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-finalize.php:345
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-finalize.php:345
+#, php-format
+msgid ""
+"Finalize: Error in database synchronization for table %s - It should not "
+"contain any rows"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-finalize.php:351
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-finalize.php:351
+#, php-format
+msgid ""
+"Finalize: Error in database synchronization for table %s - No rows has been "
+"transferred, but should contain %d rows. Normally this is because the "
+"ressource limits has been hit and the database content is too large. Consult "
+"documentation."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-finalize.php:357
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-finalize.php:359
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-finalize.php:357
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-finalize.php:359
+#, php-format
+msgid ""
+"Finalize: Warning in database synchronization for table %s - It differs more "
+"than %d%% in size, which indicate something is wrong"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-sync.php:356
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-sync.php:356
+msgid ""
+"Remote/local site responded with error, which means we can not continue the "
+"synchronization. Check log for details and contact support if this persist."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-sync.php:471
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-sync.php:471
+#, php-format
+msgid ""
+"Large row with binary column ignored from table: %s - Size of value: %d - "
+"Increase memory limit on server"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-sync.php:507
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-sync.php:507
+#, php-format
+msgid ""
+"Large row ignored from table: %s - Size: %d - Increase allowed values on "
+"server"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/database/class-database-sync.php:785
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/database/class-database-sync.php:785
+#, php-format
+msgid "Total data: %s / %s - Total rows: %s / %s"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-files-sync.php:107
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-files-sync.php:107
+msgid "Populating files (please wait)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-files-sync.php:112
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-files-sync.php:112
+msgid "Determine files to delete and transfer"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-files-sync.php:117
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-files-sync.php:117
+msgid "Transferring files"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-finalize-files-handler.php:59
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-finalize-files-handler.php:59
+#, php-format
+msgid "Remaining files to delete: %d"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-finalize-files-handler.php:103
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-finalize-files-handler.php:103
+msgid ""
+"Error calling finalize REST service - Did not get a proper response - Check "
+"logs for details."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-populate-list-handler.php:117
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-populate-list-handler.php:117
+#, php-format
+msgid ""
+"Found overlapping filepaths to synchronize: %s and %s. Please remove one of "
+"them before starting again."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-populate-list-handler.php:170
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-populate-list-handler.php:170
+msgid ""
+"Got invalid response from REST service during file population - See log for "
+"more details"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-sync-list.php:96
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-sync-list.php:96
+msgid "All files in webroot"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-sync-list.php:114
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-sync-list.php:114
+msgid "Filelocation"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-sync-list.php:205
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-sync-list.php:205
+msgid ""
+"Could not complete inserting file list into database in time before PHP "
+"timeout. You should increse PHP max_execution_time to prevent this error. Or "
+"you can make a custom synchronization with only the needed files."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-sync-list.php:487
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-sync-list.php:487
+#, php-format
+msgid "(Source: %s files - Target: %s files)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-sync-list.php:498
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-sync-list.php:498
+#, php-format
+msgid "(File: %d / %d - Size: %s / %s)"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-transfer-files-handler.php:115
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-transfer-files-handler.php:115
+msgid ""
+"Got a error response from REST service while trying to push files. Check log."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-transfer-files-handler.php:165
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-transfer-files-handler.php:165
+msgid ""
+"Got a error response from REST service while trying to fetch files. Check "
+"log."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-transport-handler.php:31
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-transport-handler.php:31
+#, php-format
+msgid "File no longer exist or could not be read: %s  - Ignoring"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-transport-handler.php:48
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-transport-handler.php:48
+#, php-format
+msgid ""
+"Could not delete file %s on target before creating directory with same "
+"location"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-transport-handler.php:56
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-transport-handler.php:56
+#, php-format
+msgid "Could not create directory %s on target"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-transport-handler.php:85
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-transport-handler.php:85
+#, php-format
+msgid ""
+"Creating file %s failed - Could not write to filesystem - This is normally "
+"due to filename not being supported on target platform or because of wrong "
+"permissions."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-transport-handler.php:91
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-transport-handler.php:91
+#, php-format
+msgid "Appending temporary filedata to %s failed."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/files/class-transport-handler.php:98
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/files/class-transport-handler.php:98
+#, php-format
+msgid "Could not create directory %s on target for file %s. Check permissions."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/initiate/class-initiate-sync.php:59
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/initiate/class-initiate-sync.php:59
+msgid "Failed initializing - Could not get a valid token from local server"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/initiate/class-initiate-sync.php:68
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/initiate/class-initiate-sync.php:68
+msgid "Failed initializing - Could not get a valid token from remote server"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/initiate/class-initiate-sync.php:98
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/initiate/class-initiate-sync.php:98
+msgid "Failed initializing - No 'to' token could be found after initialize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/initiate/class-initiate-sync.php:101
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/initiate/class-initiate-sync.php:101
+msgid "Failed initializing - No 'from' token could be found after initialize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/initiate/class-initiate-sync.php:140
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/initiate/class-initiate-sync.php:140
+msgid ""
+"Failed initialization - Did not get a response from remote server - Check "
+"logs"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/masterdata/class-masterdata-sync.php:59
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/masterdata/class-masterdata-sync.php:59
+#, php-format
+msgid "Could not retrieve masterdata from target '%s' - See log file"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/masterdata/class-masterdata-sync.php:72
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/masterdata/class-masterdata-sync.php:72
+#, php-format
+msgid ""
+"Did not retrieve correct database masterdata from target '%s' - See log file"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/masterdata/class-masterdata-sync.php:122
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/masterdata/class-masterdata-sync.php:122
+#, php-format
+msgid ""
+"WP Synchro plugin versions do not match on both sides. One runs version %s "
+"and other runs %s. Make sure they use same version to prevent problems "
+"caused by different versions of plugin."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/masterdata/class-masterdata-sync.php:128
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/masterdata/class-masterdata-sync.php:128
+#, php-format
+msgid ""
+"Database table prefixes are different on the source and target site. Source "
+"uses '%s' and target uses '%s'. Table prefix migration is not enabled in the "
+"installation configuration. This is just a warning, as the synchronization "
+"can complete, but the tables will not be used by the target site. "
+"Recommended action is to turn on the table prefix migration in the "
+"installation configuration."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-ClientSyncDatabase.php:32
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-ClientSyncDatabase.php:32
+msgid ""
+"Error from ClientSyncDatabase REST service - Check the log file for further "
+"information."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-DatabaseBackup.php:98
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-DatabaseBackup.php:98
+#, php-format
+msgid "Appending create table for database backup to %s failed."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-DatabaseBackup.php:122
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-DatabaseBackup.php:122
+#, php-format
+msgid "Appending databasebackup to %s failed."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:39
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:39
+msgid ""
+"Access key for this site is not set - This needs to be configured for WP "
+"Synchro to work."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:55
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:55
+#, php-format
+msgid ""
+"Missing PHP extensions for WP Synchro to work. Add %s to php.ini and reload."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:64
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:64
+msgid ""
+"Plain permalinks is not supported in WP Synchro. You should change it to "
+"%postname% instead"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:72
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:72
+msgid ""
+"SAVEQUERIES constant is set. This is normally only for debugging. It will "
+"generate out of memory errors with WP Synchro synchronizations"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:109
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:109
+msgid ""
+"Local SSL certificate is not valid or self-signed. To allow non-valid SSL "
+"certificates when running a synchronization, make sure it is set to allowed."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:111
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:111
+#, php-format
+msgid "REST error - Can not reach 'initiate' REST service. Error message: %s"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:120
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:120
+msgid ""
+"REST error - Initiate REST service returns improper response - No token was "
+"returned - Check PHP error log"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:123
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:123
+msgid ""
+"REST error - Can not reach 'initiate' REST service - Maybe REST services are "
+"blocked?"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:144
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:144
+msgid ""
+"REST error - Masterdata REST service returns improper response - Data was "
+"not returned in usable way - Check PHP error log"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:149
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:149
+msgid ""
+"REST error - Can not reach 'masterdata' REST service - Maybe REST services "
+"are blocked?"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:159
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:159
+#, php-format
+msgid "WP Synchro log dir is not writable for PHP - Path: %s "
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-HealthCheck.php:176
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-HealthCheck.php:176
+#, php-format
+msgid ""
+"Path that WP Synchro might use for synchronization is not writable- Path: %s "
+"-  This can be caused by PHP's open_basedir setting or file permissions"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-Initiate.php:34
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-Initiate.php:34
+msgid ""
+"Pulling from this site is not allowed - Change configuration on remote server"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-Initiate.php:37
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-Initiate.php:37
+msgid ""
+"Pushing to this site is not allowed - Change configuration on remote server"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-Initiate.php:41
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-Initiate.php:41
+msgid ""
+"Remote host does not allow that - Make sure it is same WP Synchro version"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/REST/class-REST-Masterdata.php:30
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/REST/class-REST-Masterdata.php:30
+msgid "Error from remote server:"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:57
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:57
+msgid "Initialize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:57
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:57
+msgid ""
+"Initiating synchronization on source and target and sets up security tokens "
+"on both ends"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:60
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:60
+msgid "Masterdata"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:60
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:60
+msgid ""
+"Fetching masterdata on both source and target and check that we are ready to "
+"synchronize"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:64
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:64
+msgid "Database backup"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:64
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:64
+msgid ""
+"Backup of database tables that will be changed by database sync. Backup "
+"location can be found in the log file, which can be found in the 'Logs' menu"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:69
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:69
+msgid "Synchronize the database, moving the database table rows to the target"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:74
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:74
+msgid "Synchronize the files, by comparing and transferring the missing files"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:78
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:78
+msgid "Finalizing"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:78
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:78
+msgid ""
+"Completes the synchronization by doing the last few steps and cleaning up"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/status/class-sync-status.php:142
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/status/class-sync-status.php:142
+msgid ""
+"The synchronization process seem to have problems - It may be PHP errors - "
+"please check the PHP logs"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-facebook.php:3
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-facebook.php:3
+msgid "Follow us on Facebook"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-facebook.php:4
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-facebook.php:4
+msgid ""
+"Get your WP Synchro related news directly on Facebook. We will keep you "
+"updated on changes, releases and post tips on how to improve your "
+"development workflow."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-facebook.php:5
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-facebook.php:5
+msgid "FOLLOW US"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-mailinglist.php:3
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-mailinglist.php:3
+msgid "Sign up to WP Synchro mailinglist"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-mailinglist.php:4
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-mailinglist.php:4
+msgid ""
+"Get your WP Synchro news, developer workflow tips and release announcements "
+"directly in your mailbox."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-mailinglist.php:5
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-mailinglist.php:5
+msgid "SIGN UP NOW"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-pro-version.php:3
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-pro-version.php:3
+msgid "Get PRO version now - Free 14 day trial"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-pro-version.php:4
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-pro-version.php:4
+msgid ""
+"<b>PRO Version also synchronize files</b>. Synchronize entire site or choose "
+"the files and directories you want to synchronize. Such as "
+"uploads/themes/plugins. Only difference in files get transferred, which "
+"makes it <b>super fast</b>. You also get functionality to do <b>database "
+"backup</b>, <b>WP CLI command to schedule synchronization</b> and <b>"
+"priority support</b>."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-pro-version.php:6
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-pro-version.php:6
+msgid "&#128161; Complete migration plugin solution"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-pro-version.php:7
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-pro-version.php:7
+msgid "&#128161; Easy to use, super fast and high security"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-pro-version.php:8
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-pro-version.php:8
+msgid "&#128161; Will save you a lot of time and troubles"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-pro-version.php:11
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-pro-version.php:11
+msgid "GET PRO VERSION"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/templates/card-pro-version.php:12
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/templates/card-pro-version.php:12
+msgid "30 day money back guarantee"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/transport/class-remote-transport-result.php:112
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/transport/class-remote-transport-result.php:112
+msgid ""
+"Remote or local SSL certificate is not valid or self-signed. To allow non-"
+"valid SSL certificates, you need to edit the installation and change it."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/transport/class-remote-transport.php:250
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/transport/class-remote-transport.php:250
+#, php-format
+msgid "Entering retry with remaining time %f"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/transport/class-remote-transport.php:256
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/transport/class-remote-transport.php:256
+#, php-format
+msgid "Aborting retries because we dont have enough time - Tried %d times "
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/transport/class-remote-transport.php:269
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/transport/class-remote-transport.php:269
+#, php-format
+msgid ""
+"SSL certificate is not valid or self-signed on host %s. To allow non-valid "
+"SSL certificates when running a synchronization, make sure it is set to "
+"allowed."
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/transport/class-remote-transport.php:271
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/transport/class-remote-transport.php:271
+#, php-format
+msgid "REST error - Can not reach REST service on host %s. Error message: %s"
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/transport/class-remote-transport.php:282
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/transport/class-remote-transport.php:282
+#, php-format
+msgid "Got error connecting to service %s with http code %d - Retry %d of %d "
+msgstr ""
+
+#: D:/development/wp-synchro/plugin/wpsynchro/includes/transport/class-remote-transport.php:286
+#: D:/development/wp-synchro/plugin/wpsynchro/build/includes/transport/class-remote-transport.php:286
+msgid "Could not connect to remote REST service - Check log for details"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Synchro"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Complete migration plugin for WordPress - Synchronization of database and "
+"files made easy."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpsynchro.com/home"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPSynchro"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpsynchro.com"
+msgstr ""

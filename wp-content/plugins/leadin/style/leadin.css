@@ -1,0 +1,113 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'hs-font';
+  src: url('hs-font.eot');
+  src: url('hs-font.eot?#iefix') format('embedded-opentype'),
+    url('hs-font.woff') format('woff'), url('hs-font.ttf') format('truetype'),
+    url('hs-font.svg#hs-font') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+#wp-admin-bar-leadin-admin-menu .ab-icon:before,
+.dashicons-sprocket:before {
+  font-family: 'hs-font' !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#wp-admin-bar-leadin-admin-menu .ab-icon:before,
+.dashicons-sprocket:before {
+  content: '\61';
+}
+
+.banner-wrapper {
+  height: fit-content;
+  min-height: 100px;
+  border-left: 4px solid #ff7a59;
+}
+
+#hubspot-dashboard-banner-login {
+  display: none;
+}
+#hubspot-dashboard-banner-connect {
+  display: none;
+}
+#disconnectedBanner {
+  display: none;
+}
+
+.logo-wrapper {
+  position: absolute;
+  float: left;
+  width: 180px;
+  padding-top: 15px;
+  bottom: 0;
+  top: 0;
+}
+
+.logo-style {
+  margin-bottom: -3px;
+  width: 120px;
+  padding-left: 20px;
+  max-height: 100%;
+}
+
+.title-wrapper {
+  height: 35%;
+  float: left;
+  width: fit-content;
+  font-size: 3em;
+  font-weight: bold;
+  padding-top: 15px;
+  margin-left: 180px;
+}
+
+.heading-text {
+  font-size: 0.5em !important;
+  margin-top: 0 !important;
+}
+
+.content-wrapper {
+  clear: left;
+  margin-left: 180px;
+}
+
+.signup-link {
+  color: #ff7a59;
+  cursor: pointer;
+}
+
+.signup-button {
+  height: 30px;
+  width: auto;
+  background-color: #ff7a59;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  align-items: center;
+  border: 0px solid grey;
+
+  margin-top: 5px;
+}
+
+.button-text {
+  padding: 0 10px 0 10px !important;
+  margin: 0 0 0 0 !important;
+}
+
+.mobile-spacing {
+  display: none;
+}
+
+.center-login-options {
+  float: left;
+}
